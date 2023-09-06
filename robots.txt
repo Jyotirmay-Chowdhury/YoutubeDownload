@@ -27,7 +27,7 @@
         <p class="bg_description">A place to download your videos all at once</p>
     </div>
     <form>
-        <p class="text">Insert the video's link:</p>
+        <p class="text">Insert the Youtube video's link:</p>
         <div id="buttonDownload"> 
             <input id="link" type="text" name="link" placeholder="https://youtu.be/...">
         </div>
@@ -40,7 +40,7 @@
         <p>a</p>
     </div>
     <footer class="footer">
-        <p id="stickyCopy">© 2020-2022 - YouTube Downloder</p>
+        <p id="stickyCopy">© 2020-2022 - youtubevideodownload.me</p>
     </footer>
 </body>
 </html>
