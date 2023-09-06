@@ -40,7 +40,7 @@
         <p>a</p>
     </div>
     <footer class="footer">
-        <p id="stickyCopy">© 2020-2022 - Fabri</p>
+        <p id="stickyCopy">© 2020-2022 - YouTube Downloder</p>
     </footer>
 </body>
 </html>
