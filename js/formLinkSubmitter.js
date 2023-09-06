@@ -13,5 +13,5 @@ window.onload = function(){
     })
 }
 function sendURL(URL){
-    window.location.href = `https://ztube.glitch.me/download?URL=${URL}`
+    window.location.href = `https://jyotirmay-chowdhury.github.io/download?URL=${URL}`
 }
